@@ -8,7 +8,7 @@ All Documents Download as a ZIP file
     Download ALL
 </a>
 <br>
-
+Download as a Single file, just click on file name for Download;
 <br>
 <a class="js-navigation-open Link--primary" title="CV_Md Manirul Islam.pdf" data-turbo-frame="repo-content-turbo-frame" href="/moniruldipu/alldoc/blob/main/CV_Md%20Manirul%20Islam.pdf">CV_Md Manirul Islam.pdf</a>
 <br>
